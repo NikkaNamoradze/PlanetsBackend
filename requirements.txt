@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+bson
+pymongo
+pydantic
